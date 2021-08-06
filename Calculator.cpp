@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 int main() {
    int code1, code2;
    char coffee;
